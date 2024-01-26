@@ -1,17 +1,15 @@
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 <h1>Instagran Orange Juice - FCamara</h1>
 <h3>Programa de Formação 5.0</h3>
 
 # :pushpin: Sobre do projeto
-- `Observação` Aprender linguagem básica do exemplo recriar Instagram
-</br></br>
+- `Observação ` Aprender linguagem básica do exemplo recriar Instagram
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub
-</br></br>
+- `Funcionalidade ` Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
