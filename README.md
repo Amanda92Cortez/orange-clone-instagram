@@ -1,6 +1,6 @@
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
-# COLOCAR NOME DO TÍTULO
+# Instagram - Clone
 App do clone Instagram
 
 ## 🔨 Funcionalidades do projeto
